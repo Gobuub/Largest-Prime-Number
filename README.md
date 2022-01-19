@@ -33,7 +33,7 @@ First we created an aux function, to check if a number is prime or not, then use
 
 ## Contact info 
 
-Puede visitar mi [web](https://enriquerevueltagarcia.com) para ver más proyectos mios.
+Puede visitar mi [web](https://enriquerevueltagarcia.com) para ver más proyectos.
 
-o explorar mi [github](https://github.com/Gobuub)
+O explorar mi [github](https://github.com/Gobuub)
 
