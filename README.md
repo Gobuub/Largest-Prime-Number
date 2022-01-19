@@ -31,7 +31,7 @@ Lo que hace la función es ir chequeando los factoriales del número dado y si e
 First we created an aux function, to check if a number is prime or not, then use it in the main function to check if the factor is prime, and add it to a list, the returns the last element of this list.
 
 
-## Contact info | Not required | Recommended
+## Contact info 
 
 Puede visitar mi [web](https://enriquerevueltagarcia.com) para ver más proyectos mios.
 
